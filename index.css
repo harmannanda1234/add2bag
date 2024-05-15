@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(158, 129, 184);
+}
+.remove{
+    color: rgb(1, 1, 1);
+    border: none;
+    border: none ;
+    padding: 10px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+   
+}
+
+#w1{
+    align-items: center;
+    color: rgb(5, 5, 5);
+    background-color: rgb(171, 248, 94);
+ 
+    border: none ;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cont{ 
+    bottom: 100px;
+    right: 100px;
+}
